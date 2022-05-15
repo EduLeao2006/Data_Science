@@ -1,2 +1,2 @@
-# sigmoidal_data_science
+# Data_science
 Meu portfolio pessoal de projetos de Data Science
