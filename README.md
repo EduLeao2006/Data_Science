@@ -4,31 +4,26 @@
   <img src="banner.png" >
 </p>
 
-# Carlos Melo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+# Eduardo Leão
+<sub>*Executivo de Contas* no Gartner</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Minha missão é alavancar os resultados de negócios de empresas de alta tecnologia e Telecom através de informações imparciais sobre clientes, concorrentes, mercado e tecnologias para os clientes do centro-oeste, noroeste e norte do Brasil.
+O Gartner prepara os líderes com insights, conselhos e ferramentas indispensáveis para alcançar suas missões críticas prioritárias e construir suas organizações bem-sucedidas hoje preparadas para o futuro. Um dos desafios que trouxe para esse momento foi o de desenvolver habilidades analíticas e reforçar minha capacidade de pensamento crítico e resolução de problemas.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Minhas credenciais incluem graduação em Matemática pelo Centro de Ensino Unificado de Brasília (CEUB), pós-graduação em Redes de Computadores pela Universidade Católica de Brasília (UCB) e MBA de Gestão de Serviços e Atendimento ao Cliente pela FGV.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python.
 
 **Links:**
 * [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [LinkedIn](https://www.linkedin.com/in/eduardosleao)
 * [Medium](https://www.medium.com)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os projetos realizados:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+
 
 ---
 
